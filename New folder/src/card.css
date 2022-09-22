@@ -1,0 +1,7 @@
+.demo:hover
+{
+    transform:  scale(1.05);
+    transition: 0.5s;
+    z-index: 2;
+    display: block;
+}
